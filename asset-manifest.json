@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/robot-rolodex-practice/static/css/main.f95e7a40.chunk.css",
+    "main.js": "/robot-rolodex-practice/static/js/main.366a2163.chunk.js",
+    "main.js.map": "/robot-rolodex-practice/static/js/main.366a2163.chunk.js.map",
+    "runtime-main.js": "/robot-rolodex-practice/static/js/runtime-main.289507ac.js",
+    "runtime-main.js.map": "/robot-rolodex-practice/static/js/runtime-main.289507ac.js.map",
+    "static/js/2.27b39556.chunk.js": "/robot-rolodex-practice/static/js/2.27b39556.chunk.js",
+    "static/js/2.27b39556.chunk.js.map": "/robot-rolodex-practice/static/js/2.27b39556.chunk.js.map",
+    "index.html": "/robot-rolodex-practice/index.html",
+    "precache-manifest.ca53dc2fb0cd2ea25e33009982f3940c.js": "/robot-rolodex-practice/precache-manifest.ca53dc2fb0cd2ea25e33009982f3940c.js",
+    "service-worker.js": "/robot-rolodex-practice/service-worker.js",
+    "static/css/main.f95e7a40.chunk.css.map": "/robot-rolodex-practice/static/css/main.f95e7a40.chunk.css.map",
+    "static/js/2.27b39556.chunk.js.LICENSE.txt": "/robot-rolodex-practice/static/js/2.27b39556.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.289507ac.js",
+    "static/js/2.27b39556.chunk.js",
+    "static/css/main.f95e7a40.chunk.css",
+    "static/js/main.366a2163.chunk.js"
+  ]
+}
